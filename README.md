@@ -15,7 +15,7 @@
 ---
 
 ## 2. Deployment URL
-- **Live Deployment URL:** [https://bogamhariprasad.onrender.com](https://bogamhariprasad.onrender.com)
+- **Live Deployment URL:** https://vivardhinirao-annamaneni.onrender.com/
 
 ---
 
